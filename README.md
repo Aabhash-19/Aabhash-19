@@ -27,9 +27,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=850&lines=AI+%2F+ML+Engineer+in+the+making;Building+AI-powered+products;Computer+Vision+%7C+NLP+%7C+Recommendation+Systems;Python+%7C+FastAPI+%7C+Next.js+%7C+PostgreSQL;Turning+ideas+into+real-world+software" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aabhash-19&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
+<br/>
 
 </div>
 
