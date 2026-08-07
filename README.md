@@ -4,7 +4,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aabhash%20Rahut&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
-# Hiya there! I'm Aabhash
+# Hiya there! 
+<img src = "https://files.catbox.moe/2afkl1.png" width="20%">
 
 ### Building intelligent systems at the intersection of AI, Machine Learning & Software Engineering.
 
@@ -80,6 +81,8 @@ I particularly enjoy building products that make AI feel like an actual **featur
 
 ## What I'm Focused On
 
+<div align = "center">
+
 <table>
 <tr>
 <td width="50%">
@@ -115,6 +118,8 @@ I particularly enjoy building products that make AI feel like an actual **featur
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
