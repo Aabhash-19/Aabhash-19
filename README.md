@@ -385,7 +385,7 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 ## Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&perline=6" />
 </p>
 
 ---
