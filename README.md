@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/aabhash-rahut-395589202/">
     <img src="https://img.shields.io/badge/LinkedIn-Aabhash%20Rahut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://aabhash-19.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Aabhash.dev-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://codeforces.com/profile/Aabhash_19">
     <img src="https://img.shields.io/badge/Codeforces-Aabhash__19-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
@@ -30,6 +33,31 @@
 <br/>
 
 </div>
+
+---
+
+<!-- ========================= PORTFOLIO SPOTLIGHT ========================= -->
+
+<div align="center">
+
+# Developer & AI Portfolio Website
+
+### *Explore live interactive demos, technical skills matrix, and verified credentials.*
+
+<a href="https://aabhash-19.vercel.app">
+  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-LIVE-ff6b00?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/Aabhash-19/Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO_REPO-GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+**Aabhash.dev** is a responsive, single-page developer portfolio showcasing AI applications, edge computer vision tools, verified certifications, and full-stack web platforms. Built with React 18, TypeScript, Vite, and a custom CSS design system supporting dark and light modes.
+
+- **Live Website:** [https://aabhash-19.vercel.app](https://aabhash-19.vercel.app)
+- **Source Code Repository:** [Aabhash-19/Portfolio](https://github.com/Aabhash-19/Portfolio)
 
 ---
 
@@ -751,6 +779,7 @@ I'm always interested in discussing
 
 | Project | Domain | Core Technologies | Links |
 |---|---|---|---|
+| **Developer Portfolio** | Portfolio & Showcase | React, TypeScript, Vite, CSS | [Repo](https://github.com/Aabhash-19/Portfolio) · [Live](https://aabhash-19.vercel.app) |
 | **NamiVerse** | AI Anime Discovery | Next.js, TypeScript, AI, PostgreSQL, pgvector | [Repo](https://github.com/Aabhash-19/NamiVerse) · [Live](https://nami-verse.vercel.app) |
 | **Nami** | AI Chatbot | Python, AI/LLMs | [Repo](https://github.com/Aabhash-19/Nami) |
 | **BookLens** | AI Book Discovery | FastAPI, OpenCV, OCR, SentenceTransformers | [Repo](https://github.com/Aabhash-19/BookLens) · [Live](https://book-lens-tawny.vercel.app) |
