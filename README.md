@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aabhash%20Rahut&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
-# Hey there! I'm Aabhash 👋
+# Hey there! I'm Aabhash
 
 ### Building intelligent systems at the intersection of AI, Machine Learning & Software Engineering.
 
@@ -23,7 +23,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=850&lines=AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+AI-powered+products+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Recommendation+Systems;Python+%7C+FastAPI+%7C+Next.js+%7C+PostgreSQL;Turning+ideas+into+real-world+software+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=850&lines=AI+%2F+ML+Engineer+in+the+making;Building+AI-powered+products;Computer+Vision+%7C+NLP+%7C+Recommendation+Systems;Python+%7C+FastAPI+%7C+Next.js+%7C+PostgreSQL;Turning+ideas+into+real-world+software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```python
 class AabhashRahut:
@@ -44,7 +44,7 @@ class AabhashRahut:
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.education = "B.Tech CSE — Artificial Intelligence & Machine Learning"
         self.university = "VIT Bhopal University"
-        self.location = "India 🇮🇳"
+        self.location = "India"
 
         self.interests = [
             "Machine Learning",
@@ -57,13 +57,13 @@ class AabhashRahut:
         ]
 
         self.currently_building = [
-            "NamiVerse 🍊",
+            "NamiVerse",
             "AI-powered products",
             "ML-driven full-stack applications"
         ]
 
     def philosophy(self):
-        return "Code. Solve. Repeat. 🚀"
+        return "Code. Solve. Repeat."
 ```
 
 I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning** who enjoys building software where **machine intelligence meets practical product engineering**.
@@ -78,39 +78,39 @@ I particularly enjoy building products that make AI feel like an actual **featur
 
 ---
 
-## ⚡ What I'm Focused On
+## What I'm Focused On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Semantic Search
-* Vector Embeddings
-* Recommendation Systems
-* Generative AI
-* LLM-powered applications
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Semantic Search
+- Vector Embeddings
+- Recommendation Systems
+- Generative AI
+- LLM-powered applications
 
 </td>
 
 <td width="50%">
 
-### 🛠️ Software Engineering
+### Software Engineering
 
-* Full-Stack Development
-* REST API Design
-* Backend Architecture
-* PostgreSQL
-* Vector Databases
-* Docker
-* System Design
-* Production Deployment
-* Scalable AI Applications
+- Full-Stack Development
+- REST API Design
+- Backend Architecture
+- PostgreSQL
+- Vector Databases
+- Docker
+- System Design
+- Production Deployment
+- Scalable AI Applications
 
 </td>
 </tr>
@@ -118,16 +118,16 @@ I particularly enjoy building products that make AI feel like an actual **featur
 
 ---
 
-# 🍊 Flagship Project — NamiVerse
+# Flagship Project — NamiVerse
 
 <div align="center">
 
-## ⛵ NAMIVERSE ナミ・バース
+## NAMIVERSE ナミ・バース
 
 ### *Chart your course through the anime universe — Navigated by Nami.*
 
 <a href="https://nami-verse.vercel.app">
-  <img src="https://img.shields.io/badge/🌊_EXPLORE_NAMIVERSE-LIVE-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPLORE_NAMIVERSE-LIVE-orange?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Aabhash-19/NamiVerse">
@@ -140,32 +140,32 @@ I particularly enjoy building products that make AI feel like an actual **featur
 
 Instead of simply searching for titles, users can interact with **Nami — the AI Navigator** — to discover anime through natural conversation, semantic similarity, preferences, context, and personalized exploration.
 
-### ✨ Core Ideas
+### Core Ideas
 
-* 🍊 **Nami AI Navigator** — conversational anime discovery assistant
-* 🧠 **Semantic Recommendation Engine** using vector embeddings
-* 🧭 **Log Pose inspired discovery experience**
-* 📡 **Airing Radar** for currently broadcasting anime
-* 🎞️ Anime metadata, media and discovery
-* 🔎 Dense-vector similarity search
-* 💬 Natural-language recommendation queries
-* ❤️ Personalized watchlist-oriented experiences
-* 🌊 One Piece / Nami-inspired visual identity
-* ⚡ Modern full-stack architecture
+- **Nami AI Navigator** — conversational anime discovery assistant
+- **Semantic Recommendation Engine** using vector embeddings
+- **Log Pose inspired discovery experience**
+- **Airing Radar** for currently broadcasting anime
+- Anime metadata, media and discovery
+- Dense-vector similarity search
+- Natural-language recommendation queries
+- Personalized watchlist-oriented experiences
+- One Piece / Nami-inspired visual identity
+- Modern full-stack architecture
 
-### 🧰 Technologies
+### Technologies
 
 `Next.js` • `TypeScript` • `Python` • `AI/LLMs` • `PostgreSQL` • `pgvector` • `Embeddings` • `Recommendation Systems` • `Vercel`
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 📚 BookLens
+## BookLens
 
 **AI-Powered Book Discovery Platform**
 
@@ -175,20 +175,20 @@ BookLens combines **computer vision, OCR, barcode recognition, semantic embeddin
 
 ### Highlights
 
-* 📸 Book cover scanning
-* 🔢 ISBN / barcode recognition
-* 👁 OCR-based title detection
-* 🧠 Semantic recommendation engine
-* 🔎 Vector similarity search
-* 📖 Personal library management
-* ❤️ Preference-driven suggestions
-* ⚡ FastAPI backend
-* 🗄️ PostgreSQL persistence
+- Book cover scanning
+- ISBN / barcode recognition
+- OCR-based title detection
+- Semantic recommendation engine
+- Vector similarity search
+- Personal library management
+- Preference-driven suggestions
+- FastAPI backend
+- PostgreSQL persistence
 
 ### Stack
 
-`Python` `FastAPI` `Next.js` `PostgreSQL`
-`OpenCV` `Tesseract` `PyZbar`
+`Python` `FastAPI` `Next.js` `PostgreSQL`  
+`OpenCV` `Tesseract` `PyZbar`  
 `SentenceTransformers` `HuggingFace`
 
 <br/>
@@ -205,7 +205,7 @@ BookLens combines **computer vision, OCR, barcode recognition, semantic embeddin
 
 <td width="50%" valign="top">
 
-## 😊 SmilePet
+## SmilePet
 
 **Smile. Earn. Care. Repeat.**
 
@@ -215,18 +215,18 @@ Users smile into their webcam, and the application evaluates facial geometry usi
 
 ### Highlights
 
-* 📹 Real-time webcam analysis
-* 🙂 Smile scoring system
-* 📐 Facial landmark geometry
-* 🪙 Gamified Smile Coins
-* 🐱 Virtual pet system
-* ❤️ Happiness mechanics
-* 🎮 Interactive progression loop
-* ⚡ Client-side face processing
+- Real-time webcam analysis
+- Smile scoring system
+- Facial landmark geometry
+- Gamified Smile Coins
+- Virtual pet system
+- Happiness mechanics
+- Interactive progression loop
+- Client-side face processing
 
 ### Stack
 
-`Next.js` `TypeScript` `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind CSS`  
 `MediaPipe Face Mesh` `WASM` `Prisma`
 
 <br/>
@@ -245,7 +245,7 @@ Users smile into their webcam, and the application evaluates facial geometry usi
 <tr>
 <td width="50%" valign="top">
 
-## 🌱 Plantix AI
+## Plantix AI
 
 **AI-Powered Plant Disease Detection**
 
@@ -253,18 +253,18 @@ Plantix analyzes plant leaf images and helps identify potential diseases using *
 
 ### Highlights
 
-* 🌿 Plant disease identification
-* 📷 Leaf-image analysis
-* 🧠 CNN-based classification
-* ✨ Gemini Vision integration
-* 💊 Treatment recommendations
-* 📚 Disease encyclopedia
-* 🕘 Diagnosis history
-* 🎨 Interactive Streamlit dashboard
+- Plant disease identification
+- Leaf-image analysis
+- CNN-based classification
+- Gemini Vision integration
+- Treatment recommendations
+- Disease encyclopedia
+- Diagnosis history
+- Interactive Streamlit dashboard
 
 ### Stack
 
-`Python` `TensorFlow` `CNN`
+`Python` `TensorFlow` `CNN`  
 `Gemini Vision API` `Streamlit`
 
 <br/>
@@ -281,7 +281,7 @@ Plantix analyzes plant leaf images and helps identify potential diseases using *
 
 <td width="50%" valign="top">
 
-## 👁️ DivyaDrishti
+## DivyaDrishti
 
 **AI Assistant for the Visually Impaired**
 
@@ -289,17 +289,17 @@ DivyaDrishti is an AI-powered assistive system designed to help visually impaire
 
 ### Highlights
 
-* 🎥 Real-time object detection
-* 💵 INR currency recognition
-* 🔊 Text-to-Speech feedback
-* 🧠 YOLO-powered vision
-* 🔄 Intelligent model switching
-* 🌐 Client-server architecture
-* ♿ Accessibility-focused engineering
+- Real-time object detection
+- INR currency recognition
+- Text-to-Speech feedback
+- YOLO-powered vision
+- Intelligent model switching
+- Client-server architecture
+- Accessibility-focused engineering
 
 ### Stack
 
-`Python` `YOLOv8` `OpenCV`
+`Python` `YOLOv8` `OpenCV`  
 `Flask` `Computer Vision` `pyttsx3`
 
 <br/>
@@ -314,7 +314,7 @@ DivyaDrishti is an AI-powered assistive system designed to help visually impaire
 
 ---
 
-## 🏭 PaperPilot AI
+## PaperPilot AI
 
 ### Industrial AI Copilot for Process Optimization
 
@@ -324,13 +324,13 @@ The system is designed around predicting **paper-quality deviations during grade
 
 ### Key Areas
 
-* 📈 Predictive Machine Learning
-* 🏭 Industrial AI
-* 🔍 Root-Cause Analysis
-* 🎯 Quality Deviation Prediction
-* ⚙️ Process Optimization
-* 🧠 Decision Support
-* 📊 Data-driven recommendations
+- Predictive Machine Learning
+- Industrial AI
+- Root-Cause Analysis
+- Quality Deviation Prediction
+- Process Optimization
+- Decision Support
+- Data-driven recommendations
 
 <a href="https://github.com/Aabhash-19/PaperPilot-AI">
 <img src="https://img.shields.io/badge/Explore_PaperPilot_AI-181717?style=for-the-badge&logo=github"/>
@@ -338,22 +338,22 @@ The system is designed around predicting **paper-quality deviations during grade
 
 ---
 
-## 🧠 More Machine Learning Work
+## More Machine Learning Work
 
-### 📰 Fake News Classification
+### Fake News Classification
 
 Machine-learning and NLP system for determining whether a news article is likely to be genuine or misleading.
 
 **Concepts explored:**
 
-* NLP preprocessing
-* Text vectorization
-* Supervised classification
-* Linear SVC
-* Random Forest
-* XGBoost
-* Model evaluation
-* Interactive prediction UI
+- NLP preprocessing
+- Text vectorization
+- Supervised classification
+- Linear SVC
+- Random Forest
+- XGBoost
+- Model evaluation
+- Interactive prediction UI
 
 <a href="https://github.com/Aabhash-19/fake-news-classification">
 <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github"/>
@@ -361,7 +361,7 @@ Machine-learning and NLP system for determining whether a news article is likely
 
 ---
 
-### 📱 MobileNetV4 — Apple Silicon Optimization
+### MobileNetV4 — Apple Silicon Optimization
 
 Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline and optimized implementations aimed at efficient training on Apple Silicon hardware.
 
@@ -375,9 +375,9 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-# 🛠️ Technology Arsenal
+# Technology Arsenal
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&perline=6" />
@@ -385,7 +385,7 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-## 🤖 Machine Learning & Artificial Intelligence
+## Machine Learning & Artificial Intelligence
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=8" />
@@ -393,10 +393,10 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/Natural_Language_Processing-FFD21E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Recommendation](https://img.shields.io/badge/Recommendation_Systems-F59E0B?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Vector_Embeddings-8B5CF6?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
@@ -405,24 +405,24 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ### Things I've worked with
 
-* Machine Learning
-* Deep Learning
-* CNNs
-* Computer Vision
-* OCR
-* Object Detection
-* Face Landmark Detection
-* Natural Language Processing
-* Semantic Search
-* Sentence Embeddings
-* Vector Similarity Search
-* Recommendation Systems
-* LLM-powered applications
-* Multimodal AI
+- Machine Learning
+- Deep Learning
+- CNNs
+- Computer Vision
+- OCR
+- Object Detection
+- Face Landmark Detection
+- Natural Language Processing
+- Semantic Search
+- Sentence Embeddings
+- Vector Similarity Search
+- Recommendation Systems
+- LLM-powered applications
+- Multimodal AI
 
 ---
 
-## 🌐 Frontend Development
+## Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" />
@@ -430,7 +430,7 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-## ⚙️ Backend & APIs
+## Backend & APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,python&perline=6" />
@@ -446,7 +446,7 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-## 🗄️ Databases & Data
+## Databases & Data
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=5" />
@@ -454,15 +454,15 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-8B5CF6?style=for-the-badge)
 
 </div>
 
 ---
 
-## ☁️ DevOps, Cloud & Developer Tools
+## DevOps, Cloud & Developer Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman,aws,azure&perline=9" />
@@ -470,24 +470,24 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-# 🧩 My Engineering Approach
+# My Engineering Approach
 
 <div align="center">
 
 ```text
                       ┌───────────────────────┐
-                      │     💡 IDEA / PROBLEM │
+                      │       IDEA / PROBLEM  │
                       └───────────┬───────────┘
                                   │
                                   ▼
                       ┌───────────────────────┐
-                      │    🏗 SYSTEM DESIGN   │
+                      │      SYSTEM DESIGN    │
                       └───────────┬───────────┘
                                   │
                  ┌────────────────┴────────────────┐
                  ▼                                 ▼
       ┌─────────────────────┐          ┌─────────────────────┐
-      │   🤖 ML / AI LAYER  │          │  ⚙️ BACKEND LAYER   │
+      │    ML / AI LAYER    │          │    BACKEND LAYER    │
       │                     │          │                     │
       │ Models              │          │ APIs                │
       │ Embeddings          │          │ Authentication      │
@@ -497,19 +497,19 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
                  └───────────────┬────────────────┘
                                  ▼
                       ┌───────────────────────┐
-                      │    🗄 DATA LAYER      │
+                      │      DATA LAYER       │
                       │ PostgreSQL / Vectors  │
                       └───────────┬───────────┘
                                   │
                                   ▼
                       ┌───────────────────────┐
-                      │   🎨 USER EXPERIENCE │
+                      │    USER EXPERIENCE    │
                       │ Next.js / React / UI  │
                       └───────────┬───────────┘
                                   │
                                   ▼
                       ┌───────────────────────┐
-                      │    🚀 DEPLOYMENT      │
+                      │      DEPLOYMENT       │
                       └───────────────────────┘
 ```
 
@@ -519,16 +519,16 @@ I enjoy understanding **how the whole system fits together** instead of treating
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Aabhash-19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aabhash-19&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Aabhash-19&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Aabhash-19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabhash-19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aabhash-19&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
 </a>
 
 </div>
@@ -543,7 +543,7 @@ I enjoy understanding **how the whole system fits together** instead of treating
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -553,13 +553,13 @@ I enjoy understanding **how the whole system fits together** instead of treating
 
 ---
 
-# 🎓 Education
+# Education
 
 <table>
 <tr>
 <td>
 
-### 🏫 VIT Bhopal University
+### VIT Bhopal University
 
 **B.Tech — Computer Science & Engineering**
 
@@ -573,23 +573,23 @@ I enjoy understanding **how the whole system fits together** instead of treating
 
 ---
 
-# 📜 Certifications & Learning
+# Certifications & Learning
 
 My learning journey includes coursework and certifications across **Machine Learning, Cloud Computing, Data, Networking and Technical Support**.
 
 <div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-University_of_Michigan-00274C?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloud](https://img.shields.io/badge/NPTEL-Cloud_Computing-FF9933?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-Technical_Support-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Networking](https://img.shields.io/badge/Google-Computer_Networking-34A853?style=for-the-badge\&logo=google\&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Technical_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Networking](https://img.shields.io/badge/Google-Computer_Networking-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-# 🔬 Areas I Want to Explore Deeper
+# Areas I Want to Explore Deeper
 
 ```yaml
 AI:
@@ -619,7 +619,7 @@ Research:
 
 ---
 
-# 🌱 My Developer Journey
+# My Developer Journey
 
 ```text
 Python
@@ -644,19 +644,19 @@ Vector Search + Generative AI
    ↓
 Building Complete Intelligent Products
    ↓
-                         🚀 The journey continues...
+                         The journey continues...
 ```
 
 ---
 
-# 💡 What I Like Building
+# What I Like Building
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-### 🧠 AI Products
+### AI Products
 
 AI should solve an actual user problem — not exist only as a notebook experiment.
 
@@ -664,7 +664,7 @@ AI should solve an actual user problem — not exist only as a notebook experime
 
 <td align="center" width="25%">
 
-### 👁 Computer Vision
+### Computer Vision
 
 Turning images, video and real-world visual information into useful applications.
 
@@ -672,7 +672,7 @@ Turning images, video and real-world visual information into useful applications
 
 <td align="center" width="25%">
 
-### 🔎 Intelligent Discovery
+### Intelligent Discovery
 
 Semantic search, embeddings and recommendation engines that understand intent.
 
@@ -680,7 +680,7 @@ Semantic search, embeddings and recommendation engines that understand intent.
 
 <td align="center" width="25%">
 
-### 🌐 Full-Stack Systems
+### Full-Stack Systems
 
 Connecting ML, APIs, databases and polished interfaces into deployable products.
 
@@ -691,7 +691,7 @@ Connecting ML, APIs, databases and polished interfaces into deployable products.
 
 ---
 
-# 🧪 From Experiments to Products
+# From Experiments to Products
 
 What interests me most about AI engineering isn't only:
 
@@ -723,7 +723,7 @@ That's why many of my projects combine **machine learning + backend development 
 
 ---
 
-# 🎯 Current Mission
+# Current Mission
 
 <div align="center">
 
@@ -739,11 +739,11 @@ That's why many of my projects combine **machine learning + backend development 
 
 ---
 
-# 🌊 The NamiVerse Philosophy
+# The NamiVerse Philosophy
 
 <div align="center">
 
-### 🍊 *"The destination matters — but knowing how to navigate there matters more."*
+### *"The destination matters — but knowing how to navigate there matters more."*
 
 </div>
 
@@ -762,12 +762,12 @@ Generative AI
    +
 Full-Stack Engineering
    =
-🍊 Something uniquely mine.
+Something uniquely mine.
 ```
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -793,24 +793,24 @@ I'm always interested in discussing
 
 ---
 
-# 📌 Project Directory
+# Project Directory
 
-| Project                         | Domain                         | Core Technologies                             | Links                                                                                       |
-| ------------------------------- | ------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 🍊 **NamiVerse**                | AI Anime Discovery             | Next.js, TypeScript, AI, PostgreSQL, pgvector | [Repo](https://github.com/Aabhash-19/NamiVerse) · [Live](https://nami-verse.vercel.app)     |
-| 🧭 **Nami**                     | AI Chatbot                     | Python, AI/LLMs                               | [Repo](https://github.com/Aabhash-19/Nami)                                                  |
-| 📚 **BookLens**                 | AI Book Discovery              | FastAPI, OpenCV, OCR, SentenceTransformers    | [Repo](https://github.com/Aabhash-19/BookLens) · [Live](https://book-lens-tawny.vercel.app) |
-| 😊 **SmilePet**                 | Computer Vision / Gamification | Next.js, MediaPipe, TypeScript                | [Repo](https://github.com/Aabhash-19/SmilePet) · [Live](https://smile-pet.vercel.app)       |
-| 🌱 **Plantix**                  | Plant Disease Detection        | Python, CNN, Gemini Vision, Streamlit         | [Repo](https://github.com/Aabhash-19/Plantix) · [Live](https://plantix.streamlit.app)       |
-| 👁️ **DivyaDrishti**            | Assistive AI                   | YOLOv8, Flask, OpenCV, TTS                    | [Repo](https://github.com/Aabhash-19/DivyaDrishti)                                          |
-| 🏭 **PaperPilot AI**            | Industrial AI                  | Python, ML, Predictive Analytics              | [Repo](https://github.com/Aabhash-19/PaperPilot-AI)                                         |
-| 📰 **Fake News Classifier**     | NLP / ML                       | Python, NLP, SVC, XGBoost                     | [Repo](https://github.com/Aabhash-19/fake-news-classification)                              |
-| 📱 **MobileNetV4 Optimization** | Deep Learning                  | PyTorch, MobileNetV4, CIFAR-10                | [Repo](https://github.com/Aabhash-19/MobileNetV4-AppleSilicon-Optimization)                 |
-| ⚔️ **Codeforces Solutions**     | DSA / Competitive Programming  | Algorithms, Problem Solving                   | [Repo](https://github.com/Aabhash-19/CODEFORCES-SOLUTIONS)                                  |
+| Project | Domain | Core Technologies | Links |
+|---|---|---|---|
+| **NamiVerse** | AI Anime Discovery | Next.js, TypeScript, AI, PostgreSQL, pgvector | [Repo](https://github.com/Aabhash-19/NamiVerse) · [Live](https://nami-verse.vercel.app) |
+| **Nami** | AI Chatbot | Python, AI/LLMs | [Repo](https://github.com/Aabhash-19/Nami) |
+| **BookLens** | AI Book Discovery | FastAPI, OpenCV, OCR, SentenceTransformers | [Repo](https://github.com/Aabhash-19/BookLens) · [Live](https://book-lens-tawny.vercel.app) |
+| **SmilePet** | Computer Vision / Gamification | Next.js, MediaPipe, TypeScript | [Repo](https://github.com/Aabhash-19/SmilePet) · [Live](https://smile-pet.vercel.app) |
+| **Plantix** | Plant Disease Detection | Python, CNN, Gemini Vision, Streamlit | [Repo](https://github.com/Aabhash-19/Plantix) · [Live](https://plantix.streamlit.app) |
+| **DivyaDrishti** | Assistive AI | YOLOv8, Flask, OpenCV, TTS | [Repo](https://github.com/Aabhash-19/DivyaDrishti) |
+| **PaperPilot AI** | Industrial AI | Python, ML, Predictive Analytics | [Repo](https://github.com/Aabhash-19/PaperPilot-AI) |
+| **Fake News Classifier** | NLP / ML | Python, NLP, SVC, XGBoost | [Repo](https://github.com/Aabhash-19/fake-news-classification) |
+| **MobileNetV4 Optimization** | Deep Learning | PyTorch, MobileNetV4, CIFAR-10 | [Repo](https://github.com/Aabhash-19/MobileNetV4-AppleSilicon-Optimization) |
+| **Codeforces Solutions** | DSA / Competitive Programming | Algorithms, Problem Solving | [Repo](https://github.com/Aabhash-19/CODEFORCES-SOLUTIONS) |
 
 ---
 
-# 📊 Developer Snapshot
+# Developer Snapshot
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -822,7 +822,7 @@ I'm always interested in discussing
 ║  Frontend             │ Next.js • React • TypeScript       ║
 ║  Database             │ PostgreSQL • Vector Search         ║
 ║  Favorite Activity    │ Building intelligent products      ║
-║  Current Flagship     │ NamiVerse 🍊                       ║
+║  Current Flagship     │ NamiVerse                          ║
 ║  Competitive Coding   │ Codeforces                         ║
 ║  Philosophy           │ Code. Solve. Repeat.               ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -830,7 +830,7 @@ I'm always interested in discussing
 
 ---
 
-# ⚡ A Little More About Me
+# A Little More About Me
 
 ```javascript
 const aabhash = {
@@ -891,7 +891,7 @@ const aabhash = {
         "Artificial Intelligence",
         "Building Products",
         "Problem Solving",
-        "Anime 🍊"
+        "Anime"
     ],
 
     currentlyLearning: [
@@ -905,7 +905,7 @@ const aabhash = {
 
 ---
 
-# 🐍 Contribution Journey
+# Contribution Journey
 
 <!--
 To enable the animated contribution snake, create a GitHub Action
@@ -930,17 +930,17 @@ Once configured, uncomment the following lines:
 
 <div align="center">
 
-### 🟩 Every green square represents another step forward.
+### Every green square represents another step forward.
 
 </div>
 
 ---
 
-# 🌟 If You Like My Work
+# If You Like My Work
 
 <div align="center">
 
-If something I've built interests you, consider **starring the repository ⭐**.
+If something I've built interests you, consider **starring the repository**.
 
 Open-source support motivates me to continue experimenting, building and sharing.
 
@@ -956,15 +956,14 @@ Open-source support motivates me to continue experimenting, building and sharing
 
 <div align="center">
 
-## 💭 Developer Thought
+## Developer Thought
 
-### `"Great software doesn't begin with code.`
-
+### `"Great software doesn't begin with code.`  
 ### `It begins with a problem worth solving."`
 
 <br/>
 
-### ⚡ Code. Solve. Repeat.
+### Code. Solve. Repeat.
 
 <br/>
 
