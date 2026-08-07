@@ -553,46 +553,6 @@ I enjoy understanding **how the whole system fits together** instead of treating
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aabhash-19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
-# 🧑‍💻 Competitive Programming
-
-<div align="center">
-
-## ⚔️ Codeforces — `Aabhash_19`
-
-<a href="https://codeforces.com/profile/Aabhash_19">
-<img src="https://img.shields.io/badge/Codeforces-Aabhash__19-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aabhash-19/CODEFORCES-SOLUTIONS">
-<img src="https://img.shields.io/badge/My_Solutions-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<br/>
-
-Competitive programming is one of the ways I strengthen my foundations in:
-
-* 🧠 Problem Solving
-* 📦 Data Structures
-* ⚙️ Algorithms
-* 🔍 Pattern Recognition
-* ⏱️ Time Complexity
-* 💾 Space Complexity
-* 🧩 Mathematical Reasoning
-
----
-
 # 🎓 Education
 
 <table>
