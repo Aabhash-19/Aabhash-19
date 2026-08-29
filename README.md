@@ -500,15 +500,6 @@ Experiments with **MobileNetV4 architectures on CIFAR-10**, including baseline a
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aabhash-19&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 # Education
 
