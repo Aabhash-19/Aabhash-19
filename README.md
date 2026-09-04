@@ -756,10 +756,10 @@ I'm always interested in discussing
 | **SmilePet** | Computer Vision / Gamification | Next.js, MediaPipe, TypeScript | [Repo](https://github.com/Aabhash-19/SmilePet) · [Live](https://smile-pet.vercel.app) |
 | **Plantix** | Plant Disease Detection | Python, CNN, Gemini Vision, Streamlit | [Repo](https://github.com/Aabhash-19/Plantix) · [Live](https://plantix.streamlit.app) |
 | **DivyaDrishti** | Assistive AI | YOLOv8, Flask, OpenCV, TTS | [Repo](https://github.com/Aabhash-19/DivyaDrishti) |
-| **PaperPilot AI** | Industrial AI | Python, ML, Predictive Analytics | [Repo](https://github.com/Aabhash-19/PaperPilot-AI) |
+| **PaperPilot AI** | Industrial AI | Python, ML, Predictive Analytics | [Repo](https://github.com/Aabhash-19/PaperPilot-AI) · [Live](https://paper-pilot-ai-blush.vercel.app) |
 | **Fake News Classifier** | NLP / ML | Python, NLP, SVC, XGBoost | [Repo](https://github.com/Aabhash-19/fake-news-classification) |
 | **MobileNetV4 Optimization** | Deep Learning | PyTorch, MobileNetV4, CIFAR-10 | [Repo](https://github.com/Aabhash-19/MobileNetV4-AppleSilicon-Optimization) |
-| **Codeforces Solutions** | DSA / Competitive Programming | Algorithms, Problem Solving | [Repo](https://github.com/Aabhash-19/CODEFORCES-SOLUTIONS) |
+| **My DSA Journey** | DSA | Algorithms, Problem Solving | [Repo](https://github.com/Aabhash-19/My-DSA-Journey) |
 
 ---
 
